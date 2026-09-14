@@ -17,7 +17,6 @@ Passionate about building real-world software systems and solving complex engine
   *(React Native frontend, Spring Boot backend, PostgreSQL database)*
 - ⚙️ Strong interest in **software architecture, scalable systems, and clean code**
 - 🧠 Background in **physics & analytical problem-solving** (EuPhO participant)
-- 💬 Ask me about **JavaScript, TypeScript, React, React Native**
 
 ---
 
