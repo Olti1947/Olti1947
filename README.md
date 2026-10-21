@@ -1,58 +1,43 @@
-<h1 align="center">Hi 👋, I'm Olt Bajrami</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Olt%20Bajrami&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<h3 align="center">
-Computer Science Engineering Student at the University of Pécs<br/>
-Passionate about building real-world software systems and solving complex engineering problems
-</h3>
+<div align="center">
+
+<a href="https://github.com/Olti1947">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FB3D9&center=true&vCenter=true&width=520&lines=Full-stack+Software+Engineer;Java+%2B+Spring+Boot+%C2%B7+React+%2B+React+Native;Building+AI+%26+MCP-powered+tools;Volleyball+on+weekends+%F0%9F%8F%90" alt="Typing SVG" />
+</a>
+
+</div>
+
+### Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" />
+
+- 🎓 Computer Science Engineering student at the **University of Pécs** (GPA 5.0/5.0)
+- 🇯🇵 Interned at **Diverta** in Tokyo — MCP integration & AI features (agent + RAG) for the Kuroco headless CMS
+- 💳 Built payments & push notifications for a fintech app with **500+ users** at **Rabit Solutions**
+- 📦 Author of **[Jev Java SDK](https://github.com/Olti1947/jev-java)** — open-source, on Maven Central
+- 🧠 Physics background — 1st place, Kosovo National Physics Contest & EuPhO participant
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Volleyball.png" width="20" /> Off the keyboard you'll find me on the volleyball court
+
+### 🛠️ Tech Stack
 
 <p align="center">
-🚀 Aspiring Software Engineer | Full-Stack & Mobile Development | Engineering Mindset
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,php,react,angular,vue,tailwind&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,githubactions,maven,git,figma&theme=dark" />
 </p>
 
----
+### 🚀 Featured Projects
 
-### 👨‍💻 About Me
-- 🎓 Computer Science Engineering student at the **University of Pécs**
-- 🍣 Currently building a **full-stack Sushi Ordering App**  
-  *(React Native frontend, Spring Boot backend, PostgreSQL database)*
-- ⚙️ Strong interest in **software architecture, scalable systems, and clean code**
-- 🧠 Background in **physics & analytical problem-solving** (EuPhO participant)
+| Project | Stack |
+|---|---|
+| 📦 [**Jev Java SDK**](https://github.com/Olti1947/jev-java) — type-safe client for the Jev decision-engine API, auto-released via CI/CD | Java · Maven · GitHub Actions |
+| 🍣 **Wasabi** — sushi ordering app with JWT auth, cart, checkout & order tracking ([client](https://github.com/Olti1947/wasabi-client) · [backend](https://github.com/Olti1947/wasabi-backend)) | React Native · Spring Boot · PostgreSQL |
+| 🎨 [**Designer Portfolio**](https://dalinaportofolio.web.app/) — client website | React · Tailwind · Firebase |
 
----
+### 🤝 Connect
 
-### 🛠️ Languages & Tools
 <p align="left">
-  <!-- Frontend -->
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
-
-  <!-- Backend -->
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
-
-  <!-- Tools -->
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a>
+  <a href="https://linkedin.com/in/oltbajrami"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:oltibajrami123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/oltbajrami9"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
----
-
-### 🤝 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/oltbajrami" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
-  </a>
-  <a href="https://instagram.com/oltbajrami9" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
-  </a>
-</p>
-
----
-
-### 📫 Contact
-- 📧 **Email:** oltibajrami123@gmail.com
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
